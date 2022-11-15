@@ -13,6 +13,7 @@
 	<modules>
 		<module>organic-sphere-dependencies</module>
 		<module>organic-sphere-commons</module>
+		<module>organic-sphere-authorization</module>
 	</modules>
 
 	<properties>
